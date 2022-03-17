@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(to top left, #ba55d3, #7b68ee);
+    height: 896px;
+}
+
+.text{
+    margin-top: 50%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.but{
+    border: 0;
+    border-radius: 5px;
+    background: white;
+    color: #7b68ee;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px 16px;
+}
+
+.img{
+    position: relative;
+    left: 5%;
+}

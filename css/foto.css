@@ -1,0 +1,93 @@
+body{
+    background: linear-gradient(to top left, #ba55d3, #7b68ee);
+    height: 100%;
+	margin: 0;
+	padding: 0;
+}
+header{
+	width: 100%;
+	padding-bottom: 20px;
+}
+main{
+	height: 1200px;
+}
+footer{
+	width: 100%;
+	padding-bottom: 20px;
+}
+
+/* ///////////////////////////////////////////////////// */
+
+.logoimg{
+	width: 80%;
+	position: relative;
+	left: 10%;
+	top: 10px;
+	width: 80%;
+}
+
+/* ///////////////////////////////////////////////////// */
+.menu{
+	position: relative;
+	left: 10%;
+	top: 10px;
+	width: 80%;
+}
+.but{
+    border: 0;
+    border-radius: 5px;
+    background: white;
+    color: #7b68ee;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 8px 16px;
+}
+.but1{
+    border: 0;
+    border-radius: 5px;
+    background-color: transparent; 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px 16px;
+}
+
+/* ///////////////////////////////////////////////////// */
+
+.container{
+   display: flex; 
+   position: relative;
+   left: 10%;
+}
+.textfot{
+	position: relative;
+	left: 10%;
+	top: 10px;
+	width: 80%;
+	text-align: justify;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+	color: white;
+
+}
+.dino{
+	width: 40%;
+}
+a{
+	text-decoration: none;
+	position: relative;
+	left: 10%;
+	top: 10px;
+	width: 80%;
+	text-align: justify;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+	color: white;
+}
+a img{
+	width: 6%;
+}
+
+/* ///////////////////////////////////////////////////// */
